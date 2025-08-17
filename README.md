@@ -10,3 +10,8 @@ uvicorn app.main:app --host 0.0.0.0 --port 8000
 ## Docker
 docker build -t iris-api:latest .
 docker run -p 8000:8000 iris-api:latest
+
+
+############
+
+ok this is from santosh.flyingmachine@gmail.com
